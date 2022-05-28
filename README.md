@@ -74,32 +74,38 @@ for i in range(0,9):
 ## OUTPUT:
 
 ### Original Image
-<br>
-<br>
-<br>
-<br>
+![output](https://user-images.githubusercontent.com/93427264/170813790-36b6e624-c3d2-495c-b3cd-73b4dc1c9d0d.png)
 <br>
 
 ### Global Thresholding
+![binary_thresh](https://user-images.githubusercontent.com/93427264/170813799-dc2506a2-065e-4ece-bbcc-9de58c2039c4.png)
 <br>
+
+![binaryinv_thresh](https://user-images.githubusercontent.com/93427264/170813807-0dea24e2-48c8-4666-a5ec-229d545075e0.png)
 <br>
+
+![tozero_thresh](https://user-images.githubusercontent.com/93427264/170813812-668cb37d-3ed6-47b1-8491-93ac7f927a5d.png)
 <br>
+
+![tozeroinv_thresh](https://user-images.githubusercontent.com/93427264/170813817-4b68cc51-7f04-406d-8c0e-534575fcd754.png)
 <br>
+
+![truncate_thresh](https://user-images.githubusercontent.com/93427264/170813823-a4754866-a5a8-4852-9180-d65fe4a83c48.png)
 <br>
 
 ### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
+![mean_athresh](https://user-images.githubusercontent.com/93427264/170813828-11d37334-ec08-4b2a-80a1-743c1b95f5c1.png)
 <br>
 
+![gaussian_athresh](https://user-images.githubusercontent.com/93427264/170813834-c3b08f1a-df80-44aa-bd44-c0a9889d9e69.png)
+<br>
+
+
 ### Optimum Global Thesholding using Otsu's Method
+![otsu_thresh](https://user-images.githubusercontent.com/93427264/170813837-51c49eed-e370-4d9c-a68e-da4252d7b9c0.png)
+
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 ## RESULT:
